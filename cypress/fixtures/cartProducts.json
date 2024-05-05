@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "productName": "BBQ Kit",
+            "price": "250.00",
+            "quantity": "1",
+            "subtotal": "250.00"
+
+        },
+        {
+            "id": 1,
+            "productName": "Outdoor Oven",
+            "price": "650.00",
+            "quantity": "1",
+            "subtotal": "650.00"
+        }
+    ]
+}
